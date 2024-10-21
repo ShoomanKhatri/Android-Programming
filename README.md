@@ -43,4 +43,5 @@ This repository contains multiple Android applications and code snippets aimed a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/android-practice-programs.git
+   git clone https://github.com/shoomankhatri/Android-Programming.git
+   
